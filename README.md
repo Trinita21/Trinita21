@@ -19,32 +19,24 @@ I specialize in transforming research into real-world applications — blending 
 
 ## 🛠️ Tech Stack
 `Python` · `PyTorch` · `Transformers` · `Whisper` · `FastAPI` · `LangGraph` · `Streamlit`  
-`LLMs (LLaMA2, GPT, OPT)` · `GraphRAG` · `QDrant/Faiss/Pinecone` · `CUDA C++` · `Speech Processing`  
-`Adversarial ML` · `Prompt Engineering` · `RAG` · `Agentic Workflows`
+`LLMs (LLaMA2, GPT, OPT, Deepseek, Groq)` · `GraphRAG` · `QDrant/Faiss/Pinecone` · `CUDA C++` · `Speech Processing`  
+`Adversarial ML` · `Prompt Engineering` · `RAG` · `Agentic Workflows`, `AI Agents`
 
 ---
 
-## 📌 Highlight Projects
+## 📌 Highlight Projects/Work Sample
 
-### 🔐 [Whisper Redaction Attack (Voice Privacy)](https://github.com/Trinita21/prepend_acoustic_attack)
-> **Goal**: Inaudible redaction triggers that prevent Whisper from transcribing sensitive content  
-→ Designed audio-level triggers to simulate redaction on "Off" cues and restore on "On" cues  
-→ Evaluated using custom ASR attack metrics (ASR, PRP, Leakage)
+### 🔐 [Adversarial Robustness](https://github.com/Trinita21/Adversarial_Robustness)
+> **Goal**: Increase adversarial robustness of production grade LLMs to prevent attacks and jailbreaking 
+→ Work in Progress
 
 ---
 
 ### 🤖 [Curator Agent (AI Tech Digest)](https://github.com/Trinita21/CuratorAgent)
-> An agentic assistant that gathers trending AI news, summarizes them, and emails users a quick digest.  
+> **Goal**: An agentic assistant that gathers trending AI news, summarizes them, and emails users a quick digest.  
 → Uses LangGraph + RAG + summarization  
 → Voice generation coming soon via TTS pipeline
 
----
-
-### 📚 [GraphRAG for Medical Literature](https://github.com/Trinita21/GraphRAG)
-> Integrates structured knowledge graphs + RAG for factuality and retrieval depth  
-→ Reduced hallucination in medical QA pipelines by 20%
-
----
 
 ### 🎞️ [AI Video Slide Generator](https://typeset.io/pdf-to-video)
 > PDF-to-video AI pipeline with avatar-based lip-syncing  
@@ -52,9 +44,46 @@ I specialize in transforming research into real-world applications — blending 
 
 ---
 
-### 🛡️ [Adversarial Attacks on LLMs](https://github.com/Trinita21/Adversarial-Attacks-LLMs)
-> Toolkit for LLM red-teaming with prompt injection, paraphrase jailbreaking, and speech-based attacks  
-→ Ongoing work on attack evaluation dashboard + mitigation scorecards
+### 📚 [Agentic AI Projects Collection](https://github.com/Trinita21/agentic_ai_agno_projects_collection_travelagent_movierecommenderagent_researchagent)
+> **Goal**: This repository showcases a collection of AI agents built using the Agno framework. Each agent is designed to autonomously perform specific tasks by leveraging modern AI models and tools.
+> Travel Agent: Assists users in planning trips by providing destination suggestions, itineraries, and travel tips.
+> Movie Recommender Agent: Offers personalized movie recommendations based on user preferences and viewing history.
+> Research Agent: Aids in gathering and summarizing information on various topics, streamlining the research process.
+
+---
+
+### 📚 [Financial Analyst AI Agent](https://github.com/Trinita21/financial_analyst_ai_agent_phidata_groq)
+> **Goal**: This project is a Financial Analyst AI Agent built using PhiData and Groq. It is designed to perform various financial data analysis tasks such as forecasting, financial modeling, and risk assessment. The AI Agent uses cutting-edge AI models and algorithms to provide intelligent insights into financial data, enabling better decision-making and operational efficiency.
+
+---
+
+### 📚 [Video Summarizer using Google Gemini & Phidata(Agno)](https://github.com/Trinita21/video_summarizer_google_gemini_phidata)
+> **Goal**: This project is a Streamlit-based Video Summarizer that leverages Google Gemini API and Phidata to generate concise summaries of any video or lecture.
+
+---
+
+### 📚 [Coding Assistant with DeepSeek LangChain](https://github.com/Trinita21/deepseek-langchain-assistant)
+> **Goal**: This project is a Streamlit-based AI Coding Assistant powered by DeepSeek LLM and LangChain. It enables users to interact with an AI model for intelligent responses, leveraging LangChain's capabilities for enhanced conversational experiences.
+
+---
+
+### 📚 [RAG-Based Code Assistant using Weaviate & Ollama for Generating Test Cases](https://github.com/Trinita21/codeassistant_features_2)
+> **Goal**: This project is a Retrieval-Augmented Generation (RAG)-based Coding Assistant that leverages Weaviate for vector search and Ollama (Llama models) for generating unit test cases. It works by retrieving relevant code snippets from a database and using them as context for test case generation.
+
+---
+
+### 📚 [Patents Agent - IdeaDev](https://github.com/Trinita21/agentic_ai_patents)
+> **Goal**: Integrates Patent Search, RAG using Weaviate, and Agentic AI to enhance Idea Generation, Refining Problem Statements for Patents + Writing Tool for Patent Drafting.
+
+---
+
+### 📚 [RotavirusPred](https://github.com/Trinita21/RotavirusPred)
+> **Goal**: Uses ML models to predict virulence of Rotavirus using genome and protein sequences.
+
+---
+
+### 📚 [FluSPred](https://github.com/Trinita21/FluSPred)
+> **Goal**: FluSPred(Flu Spread Prediction) is a machine learning based tool to predict the zoonotic host tropism of the Influenza A virus with the help of its protein and genome sequences, stating whether a viral strain has the potential to infect human hosts. This was developed to help prioritize high-risk viral strains for future research, aid the study of emergence or the risk a novel influenza virus possesses if it acquires the capability to spread human to human.
 
 ---
 
@@ -73,15 +102,15 @@ I specialize in transforming research into real-world applications — blending 
 
 ## 🏢 Previous Workplaces
 
-- 🧪 **Fraunhofer IPA (Germany)** – RAG + GraphRAG + Medical AI  
-- 🚘 **Bosch (Germany)** – AI for predictive maintenance and sensor validation  
-- ✨ **SciSpace** – LLM-based Research Copilot and PDF-to-Video systems
+- 🚘 **Bosch (Germany)** – Predictive maintenance and sensor validation, Signal Processing
+- 🧪 **Fraunhofer IPA (Germany)** – RAG + GraphRAG + Medical AI    
+- ✨ **SciSpace** – LLM-based Research Copilot and automation of research workflows
 
 ---
 
 ## 🎓 Education
 - 🎙️ **M.Sc. Computational Linguistics**, University of Stuttgart *(specializing in Applied NLP & Speech)*  
-- 🧠 **M.Tech**, IIIT Delhi *(Machine Learning and Data Science)*
+- 🧠 **M.Tech**, IIIT Delhi *(Machine Learning and Data Science, Computational Biology)*
 
 ---
 
