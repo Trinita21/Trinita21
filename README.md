@@ -32,6 +32,11 @@ I specialize in transforming research into real-world applications — blending 
 
 ---
 
+###[GoBot: Agentic-AI Travel Planner](https://github.com/Trinita21/GoBot_Agentic_AI_Travel_Planner)
+> **Goal**: An AI-assisted agentic system that plans personalized travel itineraries based on user prompts.
+→ Built with FastAPI backend + Streamlit frontend
+→ Uses agent graph reasoning and visual workflow tracing
+
 ### 🤖 [Curator Agent (AI Tech Digest)](https://github.com/Trinita21/CuratorAgent)
 > **Goal**: An agentic assistant that gathers trending AI news, summarizes them, and emails users a quick digest.  
 → Uses LangGraph + RAG + summarization  
