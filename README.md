@@ -32,7 +32,7 @@ I specialize in transforming research into real-world applications — blending 
 
 ---
 
-###[GoBot: Agentic-AI Travel Planner](https://github.com/Trinita21/GoBot_Agentic_AI_Travel_Planner)
+### ✈️ [GoBot: Agentic-AI Travel Planner](https://github.com/Trinita21/GoBot_Agentic_AI_Travel_Planner)
 > **Goal**: An AI-assisted agentic system that plans personalized travel itineraries based on user prompts.
 → Built with FastAPI backend + Streamlit frontend
 → Uses agent graph reasoning and visual workflow tracing
